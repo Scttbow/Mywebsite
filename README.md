@@ -8,7 +8,7 @@
 <div class="container">
     <section class="bio">
         <h2>About Me</h2>
-        <p> I'm a curious mind fascinated by the intersection of people and technology. I recently built this website to experiement with user experience design.</p>
+        <p> I'm a curious mind fascinated by the intersection of people and technology. I recently built this code to experiment with user experience design.</p>
     </div>
 
 <div class="footer">
